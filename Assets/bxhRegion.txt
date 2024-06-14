@@ -1,0 +1,4 @@
+Region: VN - Average Score: 302,5
+Region: VN2 - Average Score: 50
+Region: JS - Average Score: 100000
+Region: VS - Average Score: 700
